@@ -1,6 +1,8 @@
 # Processos e Qualidade de Software
 
-_Lesandro Ponciano_
+**Lesandro Ponciano**
+
+_Este repositório está arquivado, seu conteúdo não será mais atualizado._
 
 ## Aulas
 1. [Nivelamento de Engenharia de Requisitos e Fundamentos de Sistemas de Informação](slides/PQS-01-Nivelamento.pdf)
